@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\프론트엔드\csharp\프로젝트발표\PROJECT_csharp_01\bin\Debug\PROJECT_csharp_01.exe.config
+C:\Users\user\Desktop\프론트엔드\csharp\프로젝트발표\PROJECT_csharp_01\bin\Debug\PROJECT_csharp_01.exe
+C:\Users\user\Desktop\프론트엔드\csharp\프로젝트발표\PROJECT_csharp_01\bin\Debug\PROJECT_csharp_01.pdb
+C:\Users\user\Desktop\프론트엔드\csharp\프로젝트발표\PROJECT_csharp_01\obj\Debug\PROJECT_csharp_01.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\프론트엔드\csharp\프로젝트발표\PROJECT_csharp_01\obj\Debug\PROJECT_csharp_01.Form1.resources
+C:\Users\user\Desktop\프론트엔드\csharp\프로젝트발표\PROJECT_csharp_01\obj\Debug\PROJECT_csharp_01.Properties.Resources.resources
+C:\Users\user\Desktop\프론트엔드\csharp\프로젝트발표\PROJECT_csharp_01\obj\Debug\PROJECT_csharp_01.csproj.GenerateResource.cache
+C:\Users\user\Desktop\프론트엔드\csharp\프로젝트발표\PROJECT_csharp_01\obj\Debug\PROJECT_csharp_01.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\프론트엔드\csharp\프로젝트발표\PROJECT_csharp_01\obj\Debug\PROJECT_csharp_01.exe
+C:\Users\user\Desktop\프론트엔드\csharp\프로젝트발표\PROJECT_csharp_01\obj\Debug\PROJECT_csharp_01.pdb
+C:\Users\user\Desktop\프론트엔드\csharp\프로젝트발표\PROJECT_csharp_01\obj\Debug\PROJECT_csharp_01.Form2.resources
